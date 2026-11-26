@@ -1,0 +1,7 @@
+"test","size","power","method"
+"z (known variance)",0.05,0.965563197715057,"exact"
+"t",0.05,0.944689543023332,"exact"
+"signed rank",0.046142578125,0.929375,"simulation"
+"signed rank, randomised",0.05,0.935091527777778,"simulation"
+"sign",0.019287109375,0.705729154024097,"exact"
+"sign, randomised",0.05,0.811593490909091,"simulation"
