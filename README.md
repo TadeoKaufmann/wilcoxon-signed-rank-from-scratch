@@ -106,6 +106,6 @@ docs/       derivations
 
 ## Background and authorship
 
-This started as the final project of a Statistics course at the University of Buenos Aires (December 2024), written by Mariano Fernández Zaragoza, Tadeo Kaufmann and Juan Iñaki Larrea: the exact distribution, a first version of the test and the power comparison at n = 12.
+This started as my final project for a Statistics course at the University of Buenos Aires (December 2024), written together with Mariano Fernández Zaragoza and Juan Iñaki Larrea: the exact distribution, a first version of the test and the power comparison at n = 12.
 
-Tadeo Kaufmann later rewrote and extended it (2026): faster computation of the null distribution, edge-case fixes (one-sided p-values when T+ = 0), a test suite, size-matched comparisons, the study across distributions and the efficiency analysis.
+I later rewrote and extended it (2026): faster computation of the null distribution, edge-case fixes (one-sided p-values when T+ = 0), a test suite, size-matched comparisons, the study across distributions and the efficiency analysis.
